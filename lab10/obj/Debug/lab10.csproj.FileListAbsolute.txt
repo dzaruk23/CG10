@@ -1,0 +1,16 @@
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.OpenGl.dll
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.OpenGl.xml
+C:\Users\Дзарук\source\repos\lab10\lab10\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.Form1.resources
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.csproj.CopyComplete
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\Дзарук\source\repos\lab10\lab10\obj\Debug\lab10.pdb
